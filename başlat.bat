@@ -3,6 +3,6 @@ title ArviS - Discord Ozel RPC
 color c
 cls
 :a
-node ccd.js
+node rpc.js
 goto a
 pause
