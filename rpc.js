@@ -1,7 +1,7 @@
 var rpc = require("discord-rpc")
 const client = new rpc.Client({ transport: 'ipc' })
 client.on('ready', () => {
-    console.log("ArviS - Discord Özel RPC => RPC'niz Hazır, iyi Günlerde Kullanın."),
+    console.log("ArviS#0011 - Discord Özel RPC => RPC'niz Hazır, iyi Günlerde Kullanın."),
 client.request('SET_ACTIVITY', { 
 pid: process.pid, 
 activity : {
