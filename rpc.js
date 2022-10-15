@@ -7,9 +7,9 @@ client.on('ready', () => {
 client.request('SET_ACTIVITY', { 
 pid: process.pid, 
 activity : {
+timestamps: { start: Date.now() },
 details : "❤️・@AngelDevelopers",  // Başlığın altında gözüken ince fontlu yazı kısmı.
 assets : {
-timestamps: { start: Date.now() },
 
 large_image : "arvislogo",  // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın.
 small_image : "bluetik", // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın.
