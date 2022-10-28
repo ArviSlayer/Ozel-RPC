@@ -22,4 +22,4 @@ buttons : [{label : "Discord" , url : "https://discord.gg/apQWPBKajs"},{label : 
 })
 })
 
-client.login({ clientId : "1030947981492502598" }).catch(console.error); //clientID bölümüne kendi Bot (Application) ID'ni yazacaksınız.
+client.login({ clientId : "" }).catch(console.error); //clientID bölümüne kendi Bot (Application) ID'ni yazacaksınız.
