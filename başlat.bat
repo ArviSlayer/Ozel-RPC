@@ -1,8 +1,8 @@
 echo off
-title ArviS - Discord Ozel RPC
+title Discord Ozel RPC
 color c
 cls
 :a
-node rpc.js
+node ccd.js
 goto a
 pause
