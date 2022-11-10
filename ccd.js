@@ -8,7 +8,7 @@ client.request('SET_ACTIVITY', {
 pid: process.pid, 
 activity : {
 timestamps: { start: Date.now() },
-details : "❤️・Discord Türkiye",  // Başlığın altında gözüken ince fontlu yazı kısmı.
+details : "❤️・Software",  // Başlığın altında gözüken ince fontlu yazı kısmı.
 assets : {
 
 large_image : "arvislogo",  // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın.
@@ -16,10 +16,10 @@ small_image : "bluetik", // Rich Presence kısmına koyduğunuz fotoğrafın ad�
 large_text : "ArviS", // Botu oluştururken girdiğiniz ismi yazın.
 },
 
-buttons : [{label : "Discord" , url : "https://discord.gg/apQWPBKajs"},{label : "Instagram" , url : "https://instagram.com/arvis_here"}]
+buttons : [{label : "Discord" , url : "https://discord.gg/npJ3t2MNVZ"},{label : "Instagram" , url : "https://instagram.com/arvis_here"}]
 
 }
 })
 })
 
-client.login({ clientId : "" }).catch(console.error); //clientID bölümüne kendi Bot (Application) ID'ni yazacaksınız.
+client.login({ clientId : "1030947981492502598" }).catch(console.error); //clientID bölümüne kendi Bot (Application) ID'ni yazacaksınız.
