@@ -1,11 +1,10 @@
-﻿var rpc = require("discord-rpc")
-const client = new rpc.Client({ transport: 'ipc' })
+var rpc = require("discord-rpc")
+const client = new rpc.Client({ transport })
 
 client.on('ready', () => {
     console.log("ArviS - Discord Özel RPC => RPC'niz Hazır, iyi Günlerde Kullanın."),
 
-client.request('SET_ACTIVITY', { 
-pid: process.pid, 
+client.request(, { 
 activity : {
 timestamps: { start: Date.now() },
 details : "❤️・Software",  // Başlığın altında gözüken ince fontlu yazı kısmı.
