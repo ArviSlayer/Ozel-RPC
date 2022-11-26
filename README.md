@@ -1,5 +1,17 @@
-> **rpc.js İÇERİSİNDE NEREYE NEYİN GELECEĞİ DETAYLI BELİRTİLDİ**
+# 🤖・Bota BİLEREK 3 Farklı Hata Bırakıldı
+⭐・3 Hatayıda Çözüp Botu Başlatabilirsiniz
+# 
 
+# 📞・İLETİŞİM
+💙・**Discord:** ArviS#0011
+
+🔗・**Destek Sunucusu:** [Tıkla](https://discord.gg/3AfAFE5qYg)
+
+💜・**Instagram:** [Tıkla](https://www.instagram.com/arvis_here/)
+#
+
+> **rpc.js İÇERİSİNDE NEREYE NEYİN GELECEĞİ DETAYLI BELİRTİLDİ**
+# 📷・GÖRSEL
 __Görünümü Bu Şekilde:__
 
 ![image](https://user-images.githubusercontent.com/69751083/164498277-80ac3c0b-1477-4516-9589-e3225094c4f4.png)
