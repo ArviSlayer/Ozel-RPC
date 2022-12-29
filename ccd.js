@@ -24,4 +24,4 @@ buttons : [{label : "Mi' Amor", url: "https://www.instagram.com/arvis_here/"}]
 })
 })
 
-client.login({ clientId : "1030947981492502598" }).catch(console.error); //clientID bölümüne kendi Bot (Application) ID'ni yazacaksınız.
+client.login({ clientId : "" }).catch(console.error); //clientID bölümüne kendi Bot (Application) ID'ni yazacaksınız.
