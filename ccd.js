@@ -7,7 +7,7 @@ client.on('ready', () => {
 client.request('SET_ACTIVITY', { 
 pid: process.pid, 
 activity : {
-timestamps: { start: Date.now() },
+//timestamps: { start: Date.now() },
 details : "❤️・Software",  // Başlığın altında gözüken ince fontlu yazı kısmı.
 assets : {
 
@@ -18,7 +18,7 @@ large_text : "Made by ❤️ ArviS#0011", //Büyük Resim Text
 small_text: "Discorder", //Küçük Resim Text
 },
 
-buttons : [{label : "Mi' Amor", url: "https://github.com/ArviSlayer"}]
+buttons : [{label : "Mi' Amor", url: "https://www.instagram.com/arvis_here/"}]
 
 }
 })
